@@ -29,3 +29,12 @@
 .evidenziato{
     background-color: yellow;
 }
+
+.table-head{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.blue-row{
+    background-color: #b1e5f2;
+}
