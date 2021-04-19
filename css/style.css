@@ -21,3 +21,11 @@
 #data{
     font-size: 16px;
 }
+
+.descrizione{
+    font-size: 14px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
