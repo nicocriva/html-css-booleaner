@@ -8,3 +8,16 @@
 #logo-img{
     width: 250px;
 }
+
+.diritti{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+}
+
+#creator{
+    color: #4ea0ff;
+}
+
+#data{
+    font-size: 16px;
+}
