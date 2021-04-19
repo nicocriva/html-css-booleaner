@@ -30,6 +30,15 @@
     background-color: yellow;
 }
 
+ul{
+   padding-left: 1.9em;
+
+}
+
+table{
+    border-collapse: collapse;
+}
+
 .table-head{
     background-color: #20a9e5;
     color: white;
